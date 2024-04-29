@@ -16,3 +16,9 @@ URIs:-
 - http://localhost:8765/currency-conversion-service/currency-converter/from/USD/to/INR/quantity/1000
 
 - http://localhost:8765/currency-conversion-service/currency-converter-feign/from/USD/to/INR/quantity/1000
+
+------CUSTOM ROUTE--------
+
+http://localhost:8765/currency-exchange/from/EUR/to/INR
+http://localhost:8765/currency-converter/from/USD/to/INR/quantity/1000
+http://localhost:8765/currency-converter-feign/from/USD/to/INR/quantity/1000
